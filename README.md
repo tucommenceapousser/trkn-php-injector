@@ -10,6 +10,15 @@ This script injects PHP code into a specified jpeg image. The web application wi
 # Clone on replit
 [![Run on Repl.it](https://replit.com/badge/github/tucommenceapousser/trkn-php-injector)](https://replit.com/new/github/tucommenceapousser/trkn-php-injector)
 
+# help
+```
+phptojpeg -h
+```
+or
+```
+phptojpeg --help
+```
+
 # Usage
 `phptojpeg [JPEG] [PAYLOAD] [OUTPUT_JPEG]`
 
