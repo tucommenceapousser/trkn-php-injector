@@ -7,6 +7,9 @@ You have a web application that runs a jpeg image through PHP's GD graphics libr
 # Description
 This script injects PHP code into a specified jpeg image. The web application will execute the payload if it interprets the image. Make sure your input jpeg is uncompressed!
 
+# Clone on replit
+[![Run on Repl.it](https://replit.com/badge/github/tucommenceapousser/trkn-php-injector)](https://replit.com/new/github/tucommenceapousser/trkn-php-injector)
+
 # Usage
 `phptojpeg [JPEG] [PAYLOAD] [OUTPUT_JPEG]`
 
